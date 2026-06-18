@@ -25,4 +25,3 @@ https://kingasterisk.com/services/asterisk-development
 **Company**
 
 KingAsterisk Technologies delivers advanced contact center dialer solutions and reliable VICIdial services designed to boost efficiency, simplify operations, and enhance agent performance through powerful client-server systems.
-<img width="1057" height="807" alt="image" src="https://github.com/user-attachments/assets/bd27a062-5725-431a-ace4-6f726ee4916c" />
